@@ -38,7 +38,7 @@ async def _(event):
 
         animation_chars = [
         
-            "`Connecting To Anandus Private Server...`",
+            "`Connecting To jUstiNs Private Server...`",
             "`Target Selected.`",
             "`Hacking... 0%\n▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Hacking... 4%\n█▒▒▒▒▒searching for all pics and clips▒▒ `",
