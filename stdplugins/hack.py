@@ -42,13 +42,13 @@ async def _(event):
             "`Target Selected.`",
             "`Hacking... 0%\n▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ `",
             "`Hacking... 4%\n█▒▒▒▒▒searching for all pics and clips▒▒ `",
-            "`Hacking... 8%\n██connecting to anandus satelite system🛰️🛰️ `",    
+            "`Hacking... 8%\n██connecting to justins server🛰️🛰️ `",    
             "`Hacking... 20%\n█████copying started with 120Mb per second `",
             "`Hacking... 36%\n█████████compressing hidden pictures and videos🤭🤭🤭 `",
-            "`Hacking... 52%\n█████████████▒▒copying to my cloud `",
-            "`Hacking... 84%\n███████████████████completed in 12.765 sec `",
+            "`Hacking... 52%\n█████████████▒▒copying to  cloud `",
+            "`Hacking... 84%\n███████████████████completed in 10.765 sec `",
             "`Hacking... 100%\n███completed hacking contact hacker and pay `",
-            "`Targeted Account Hacked...\n\nPay @ANANDUS To free your data`"
+            "`Targeted Account Hacked...\n\nPay jusTiN To free your data`"
         ]
 
         for i in animation_ttl:
